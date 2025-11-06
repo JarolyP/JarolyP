@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-JarolyPolanco-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://jaroly-code-cv.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jaroly--code--cv.netlify.app-1E90FF?logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/portfolio-jaroly-polanco.netlify.app-1E90FF?logo=firefox&logoColor=white" />
   </a>
 </p>
 
