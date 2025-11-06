@@ -1,54 +1,55 @@
-<!-- 💻 Banner principal -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JarolyP/JarolyP/main/banner.png" alt="Jaroly Polanco — Backend Developer" width="100%">
-</p>
-
-<h1 align="center">Hi, I'm Jaroly Polanco 👋</h1>
-<p align="center">
-  <b>Backend Developer</b> — Java · Spring Boot · Node.js/Nest.js · .NET · SQL · Docker  
-  <br/>
-  Dominican Republic 🇩🇴 · Open to Remote Work
+  <img src="https://raw.githubusercontent.com/JarolyP/JarolyP/main/banner.gif" width="1000" alt="Jaroly Polanco Banner"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 👋 Hi, I’m **Jaroly Omar Polanco**
+> 💻 Backend Developer | Building scalable systems & clean APIs  
+> 🌍 Based in Dominican Republic  
+> 🚀 Passionate about clean architecture, databases & performance  
+
+---
+
+### 🧠 Tech Stack
 <p align="center">
-  <a href="https://portfolio-jaroly-polanco.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-portfolio--jaroly--polanco.netlify.app-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,ts,js,nodejs,nestjs,python,django,kotlin,postgres,mongodb,sqlserver,firebase,docker,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JarolyP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JarolyP&theme=radical&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC" width="48%" />
+</p>
+
+---
+
+### 🌐 Connect with me
+<p align="center">
   <a href="https://www.linkedin.com/in/jarolyomarpolanco" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaroly%20Omar%20Polanco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-jaroly-polanco.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+  <a href="https://github.com/JarolyP" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Spring_Boot-6DB33F?logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-Nest.js-339933?logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-Backend-512BD4?logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-Django-092E20?logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JarolyP&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JarolyP&layout=compact&theme=tokyonight&hide_border=true" alt="Languages">
-</p>
+### 💬 About Me
+- 🌱 Currently improving my **Spring Boot** and **Nest.js** backend skills  
+- 🧩 Exploring advanced **SQL Server** design and stored procedures  
+- ☁️ Learning **Docker** & **Firebase integration** for deployment  
+- 🎮 Gamer & tech enthusiast — I love rainy nights and green lights 🌧️💚  
 
 ---
 
 <p align="center">
-  <i>“Clean code is not just a goal — it’s a habit.”</i>
+  <sub>💡 Crafted with care by <strong>JarolyP</strong> — 2025</sub>
 </p>
